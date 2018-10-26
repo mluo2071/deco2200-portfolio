@@ -1,10 +1,10 @@
-/*This Custom CSS file has not been structured in any particular order.
+/*This Custom CSS file has not been structured in any particular order. 
 
 Modify this file to your hearts content and make your website look awesome!*/
 
 
 body{
-	background-color: #F6EACE;
+	background-color: #ebebeb;
 	padding-top: 80px;
 }
 
@@ -36,27 +36,17 @@ img.nav-bar-img{
 }
 
 a.navbar-brand{
-	font-family: 'Montserrat', serif;
-	font-size: 50px;
+	font-family:'Montserrat', Sans-Serif;
+	font-size: 
 }
 
 /*Floating Nav*/
-#drone{
-	float: right;
-	width:80px;
-	height: 80px;
-	margin: 0px;
-	border: 0px;
-}
 .floating-nav{
 	position: fixed;
 	margin-top: 50px;
 	border-left: 1px solid #727272;
 }
-#personaa{
-	width:700px;
-	height:450px;
-}
+
 	a.float-nav-link{
 		font-family: 'Lato', Sans-Serif;
 		color: #595959;
@@ -76,30 +66,10 @@ img{
 /*Font Override Rules*/
 h1, h2, h3, h4, h5, h6 {
 	font-family:'Montserrat', Sans-Serif;
-	margin-bottom: 30px;
-	font-weight: bold;
-}
-
-
-#subtitle{
-	font-family:'Montserrat', Sans-Serif;
-	font-weight:bold;
-	text-align: center;
-	font-size: 18px;
-	color: 6D5606;
+	margin-bottom: 20px;
 }
 	h1.welcome-special{
 		font-size: 90px;
-	}
-#change {
-	width: 350px;
-	height: 250px;
-}
-
-	#interface {
-		width: 1050px;
-		height:700px;
-		margin-right: 100px;
 	}
 
 	h2.welcome-special-sub{
@@ -113,13 +83,10 @@ h1, h2, h3, h4, h5, h6 {
 		letter-spacing: -0.5px;
 	}
 
-
-
 p, li, span, a {
-	font-family: 'Montserrat', serif;
+	font-family: 'Lato', Sans-Serif;
 	text-align: justify;
 	font-weight: 300;
-	font-size: 17px;
 }
 
 	p{
@@ -160,11 +127,11 @@ span.img-caption{
 }
 
 .master-heading{
-	padding-top: 50px;
+	padding-top: 50px;	
 }
 
 .section-heading{
-	padding-top: 100px;
+	padding-top: 100px;	
 }
 
 .slide-show{
@@ -180,3 +147,6 @@ span.img-caption{
 	background-color: #989898;
 	border-top: 1px solid #727272;
 }
+
+
+
