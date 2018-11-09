@@ -9,6 +9,15 @@ Modify this file to your hearts content and make your website look awesome!*/
 
 }
 
+
+.navbar-brand{
+	overflow: hidden;
+background-color: #ed902d;
+position: fixed; /* Set the navbar to fixed position */
+top: 0; /* Position the navbar at the top of the page */
+width: 100%; /* Full width */
+}
+
 h1{
 font-family: 'Coda Caption', sans-serif;
 font-size: 60px;
@@ -85,10 +94,7 @@ a.navbar-brand{
 	margin-top: 50px;
 	border-left: 1px solid #727272;
 }
-#personaa{
-	width:700px;
-	height:450px;
-}
+
 
 #persona {
 	display: block;
@@ -136,8 +142,9 @@ display: block;
 	font-size: 18px;
 	color: 6D5606;
 }
-	h1.welcome-special{
-		font-size: 90px;
+	h1{
+		font-size: 65px;
+		margin-top: 70px;
 	}
 
 
